@@ -44,7 +44,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
-        <encryption_context/>
         <file_name>todoist.jpeg</file_name>
         <hash>5c3bb44d0aa686691c592efb4069e284bedc6b2c1e775134ffe171d1f200898f</hash>
         <image_height/>
